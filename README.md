@@ -9,5 +9,6 @@ So please use these resources as they were intended to - as a source of informat
 * [Manually implementing a forward pass in a fully connected artificial neural network](forward-pass/README.md)
 * [Analyzing how artificial neural networks shield against environmental noise (part 1)](how-ann-shield-against-environmental-noise-part-1/README.md)
 * [Analyzing how artificial neural networks shield against environmental noise (part 2)](how-ann-shield-against-environmental-noise-part-2/README.md)
+* [Regression Analysis - Part 1: Simple Linear Regression](regression-analysis-part-1--simple-linear-regression/README.md)
 * more to come...
 
