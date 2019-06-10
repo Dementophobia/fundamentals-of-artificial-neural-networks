@@ -11,5 +11,6 @@ So please use these resources as they were intended to - as a source of informat
 * [Analyzing how artificial neural networks shield against environmental noise (part 2)](how-ann-shield-against-environmental-noise-part-2/README.md)
 * [Regression Analysis - Part 1: Simple Linear Regression](regression-analysis-part-1--simple-linear-regression/README.md)
 * [Regression Analysis - Part 2: Multi-Dimensional Linear Regression](regression-analysis-part-2--multi-dimensional-linear-regression/README.md)
+* [Regression Analysis - Part 3: Polynomial Regression](regression-analysis-part-3--polynomial-regression/README.md)
 * more to come...
 
