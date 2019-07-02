@@ -13,6 +13,7 @@ So please use these resources as they were intended to - as a source of informat
 * [Regression Analysis - Part 3: Polynomial Regression](regression-analysis-part-3--polynomial-regression/README.md)
 * [Regression Analysis - Part 4: Regression Metrics](regression-analysis-part-4--regression-metrics/README.md)
 * [Regression Analysis - Part 5: Measuring the Quality of Polynomial Models](regression-analysis-part-5--measuring-quality-of-polynomial-models/README.md)
+* [Regression Analysis - Part 6: Gradient Descent](regression-analysis-part-6--gradient-descent/README.md)
 * more to come...
 
 ### Hands-on Experiments
